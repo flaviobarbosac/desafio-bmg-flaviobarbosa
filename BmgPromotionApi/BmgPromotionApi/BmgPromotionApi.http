@@ -1,0 +1,6 @@
+@BmgPromotionApi_HostAddress = http://localhost:5007
+
+GET {{BmgPromotionApi_HostAddress}}/Promotion/
+Accept: application/json
+
+###

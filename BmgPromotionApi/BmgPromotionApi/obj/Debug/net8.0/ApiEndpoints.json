@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "BmgPromotionApi.Controllers.PromotionController",
+    "Method": "PurchaseIPhone",
+    "RelativePath": "api/Promotion/purchase-iphone",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BmgPromotionApi.Controllers.PromotionController",
+    "Method": "GetPromotionStatus",
+    "RelativePath": "api/Promotion/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
